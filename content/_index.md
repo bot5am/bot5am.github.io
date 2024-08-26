@@ -12,4 +12,3 @@ This is the landing page.
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
-This is working at last
